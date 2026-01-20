@@ -107,7 +107,7 @@ pip install pandas numpy matplotlib yfinance
 
 ---
 
-## ▶Ejecución
+## Ejecución
 
 Para ejecutar el backtest:
 
